@@ -1,3 +1,8 @@
+bash
+
+cat /home/claude/sportpredict/backend/app/main.py
+Sortie
+
 """
 API principale SportPredict V2.
 Nouveautés : calendrier par ligue, ligues disponibles, buteurs top 5 systématiques.
